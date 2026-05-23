@@ -34,5 +34,11 @@
         "year": 2026,
         "semester": 1,
         "grade": "A+"
+    },
+    {
+        "course_name": "C프로그래밍",
+        "year": 2025,
+        "semester": 1,
+        "grade": "A+"
     }
 ]
